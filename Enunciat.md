@@ -12,7 +12,7 @@ Les regles bàsiques impliquen dibuixar línies entre punts adjacents per formar
 
 Es recomana veure aquest vídeo explicatiu de les regles i com es juga: [Dots and Boxes](https://www.youtube.com/watch?v=FKv5KBzFW_s).
 
-### Regles Bàsiques del Joc
+### Regles Bàsiques del Joc
 
 * Cada torn, un jugador ha de dibuixar una línia entre punts adjacents horitzontalment o verticalment.
 * La línia dibuixada ha d'estar disponible i no haver estat dibuixada anteriorment.
